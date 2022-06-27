@@ -1,4 +1,4 @@
-# diplomacy-nation-picker
+# Diplomacy Nation Picker
 
 Simple Python Windows app for allocating nations to players in the classic WW1 strategy board game: Diplomacy.
 

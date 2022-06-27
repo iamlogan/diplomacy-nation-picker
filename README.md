@@ -2,8 +2,6 @@
 
 Simple Windows app for allocating nations to players in the classic WW1 strategy board game: Diplomacy.
 
-Written in Python.
-
 Randomly assign nations (from the available pool) to 2-7 players, one nation per player.
 
 Nation availablity by player count:
@@ -14,3 +12,5 @@ Nation availablity by player count:
 - 4 players: England, France, Russia, Turkey
 - 3 players: France, Germany, Austria
 - 2 players: France, Austria
+
+Written in Python.

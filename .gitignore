@@ -1,2 +1,6 @@
 
 venv/
+build/
+DiplomacyNationPicker.spec
+dist/DiplomacyNationPicker.exe
+__pycache__/

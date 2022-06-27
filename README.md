@@ -1,6 +1,8 @@
 # Diplomacy Nation Picker
 
-Simple Python Windows app for allocating nations to players in the classic WW1 strategy board game: Diplomacy.
+Simple Windows app for allocating nations to players in the classic WW1 strategy board game: Diplomacy.
+
+Written in Python.
 
 Randomly assign nations (from the available pool) to 2-7 players, one nation per player.
 
